@@ -21,7 +21,7 @@
 ### Midterm Project
 
 [Pie Rush!](http://example.com/)
-<omg src="images/pierush.png?raw=true">
+<img src="images/pierush.png?raw=true"/>
   
 ---
 
