@@ -1,23 +1,27 @@
 ## ++Projects++
 
 ---
-
+# Rolls For All!
 [Dice Game Demo](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rollsforall.png?raw=true"/>
 
 ---
+# Items for Gold!
 [Shop Demo](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/itemsforgold.png?raw=true"/>
 
 ---
+
+# Journaling App
 [Journal App](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/journalingapp.png?raw=true"/>
 
 ---
 
 ### Midterm Project
 
 [Pie Rush!](http://example.com/)
+<omg src="images/pierush.png?raw=true">
   
 ---
 
