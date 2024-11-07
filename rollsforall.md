@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Rolls For All
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This project is a game of chance with a dice. The code within the game generates a random number. The player will then have to guess if that number is high or low. Players will earn a point each time they guess right and lose a point if they guess wrong.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
