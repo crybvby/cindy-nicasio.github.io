@@ -2,7 +2,7 @@
 
 ---
 
-[Dice Game Demo](/sample_page)
+[Dice Game Demo](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
