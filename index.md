@@ -18,6 +18,13 @@
 
 ---
 
+# Micro RPG 
+[Inheritance Game Demo](http://example.com/)
+<img src="images/microrpg.png?raw=true"/>
+
+---
+
+
 ### Midterm Project
 
 [Pie Rush!](http://example.com/)
